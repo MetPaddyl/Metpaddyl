@@ -11,15 +11,13 @@
      <link rel="stylesheet" href="index.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
     <meta name="author" content="Đây Là Website Của ThanhDieu-Dev, Rất Mong Được Chào Đón Bạn !">
-    <meta property="og:title" content="HELLO TA CHI HẢO - THIS IS THANHDIEUTV !">
+    <meta property="og:title" content="HELLO">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://thanhdieu.com/">
     <meta property="og:image" content="http://thanhdieu.com/files/thanhdieugirl.jpg">
     <meta property="og:image:width" content="120">
     <meta property="og:image:height" content="120">
     <meta property="og:site_name" content="ThanhDieuTV">
     <meta name="theme-color" content="#00FFFF" />
-    <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js' type='text/javascript'></script>
 </head>
 </div>
 <body class="Border" onLoad="onCreate()">
