@@ -6,7 +6,8 @@
   <img src="https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/11/Lighter-ZZZ-1.webp?fit=1600%2C900&ssl=1" width="680" alt="Foto Profil" />
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode" />
 </p>
- <p align="center"> $\color{#ffffff}{\huge{\text{If you're seeing this. This is my repository experiment XD}}}$ </p>
+ <p align="center"> $\color{#ffffff}{\huge{\text{If you're seeing this. This is my repository experiment XD }}}$ </p>
+ <p align="center"> $\color{#ffffff}{\large{\text{I'm learning code to make this on my own, not by someones code or template, so sorry if it looked messy }}}$ </p>
 <p align="right">
   <p align="right">
     <p align="center">
